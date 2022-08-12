@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/XEUkQNOlmuq8Wv7FAc/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/XEUkQNOlmuq8Wv7FAc/giphy.gif" width="100%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/vitor-figueirdo-b38b99191">
