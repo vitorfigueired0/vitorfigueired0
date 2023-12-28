@@ -19,7 +19,7 @@
 ![Postman](https://img.shields.io/badge/Postman-0d0a00?style=for-the-badge&logo=postman&logoColor=white)
 [![HTML5](https://img.shields.io/badge/HTML5-0d0a00?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-0d0a00?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![PHP](https://img.shields.io/badge/PHP-0d0a00?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 
 
 ## Github Stats
