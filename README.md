@@ -19,11 +19,12 @@
 ![Postman](https://img.shields.io/badge/Postman-0d0a00?style=for-the-badge&logo=postman&logoColor=white)
 [![HTML5](https://img.shields.io/badge/HTML5-0d0a00?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS](https://img.shields.io/badge/CSS-0d0a00?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![PHP](https://img.shields.io/badge/PHP-0d0a00?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![React](https://img.shields.io/badge/React-0d0a00?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-0d0a00?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+
 
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorfigueired0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=f0f8ff&text_color=FFF)
-## My projects
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorfigueired0&repo=task-forge-backend&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=f0f8ff&text_color=FFF)](https://github.com/vitorfigueired0/task-forge-backend)
+
 
