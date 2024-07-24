@@ -1,5 +1,5 @@
 # $ whoami
- <p align="justify">My name is Vitor Figueiredo, i am a Junior Back-end Developer with experience in RESTful APIs, DevOps, and SQL. I am always eager to expand my knowledge stack and take on new challenges. My passion for coding drives me to constantly learn and improve, making me a valuable asset to any team.</p>
+ <p align="justify">My name is Vitor Figueiredo, a Junior Full-Stack Developer with experience in RESTful APIs, DevOps, and SQL. I'm passionate about coding and constantly seek to expand my knowledge stack, embracing new challenges. With experience in both back-end and front-end development, I am a versatile and valuable asset to any team. My dedication to continuous learning ensures that I am always improving and staying up-to-date with the latest technologies.</p>
  <br>
 
 ## Connect with me
@@ -36,9 +36,6 @@
 ![Postman](https://img.shields.io/badge/Postman-0d0a00?style=for-the-badge&logo=postman&logoColor=white)
 
 
-
-
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorfigueired0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=f0f8ff&text_color=FFF)
-
 
