@@ -1,5 +1,8 @@
 # $ whoami
- <p align="justify">My name is Vitor Figueiredo, a Junior Full-Stack Developer with experience in RESTful APIs, DevOps, and SQL. I'm passionate about coding and constantly seek to expand my knowledge stack, embracing new challenges. With experience in both back-end and front-end development, I am a versatile and valuable asset to any team. My dedication to continuous learning ensures that I am always improving and staying up-to-date with the latest technologies.</p>
+ <p align="justify">Hi! I'm Vitor Figueiredo, a Full Stack Developer with over 2 years of experience in system development. I specialize in building REST APIs, creating user interfaces, setting up environments, developing pipelines, managing databases, and automating tasks. 
+
+I'm proficient in various languages and technologies, including Java, JavaScript, TypeScript, Python, Shell Script, Node.js, React, Spring Boot, NestJS, PostgreSQL, MySQL, MongoDB, BigQuery, AWS, GCP, Linux, and Docker. I have solid experience with agile methodologies and cloud platforms like Google Cloud and AWS.
+</p>
  <br>
 
 ## Connect with me
