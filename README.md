@@ -44,6 +44,8 @@ I'm proficient in various languages and technologies, including Java, JavaScript
 
 ## Projects
 [![Cowsay Daily Message](https://github-readme-stats.vercel.app/api/pin/?username=vitorfigueired0&repo=cowsay-message&theme=transparent&bg_color=000&border_color=30A3DC&text_color=FFF)](https://github.com/vitorfigueired0/cowsay-message)
+[![Cowsay Daily Message](https://github-readme-stats.vercel.app/api/pin/?username=vitorfigueired0&repo=desafio-obuc&theme=transparent&bg_color=000&border_color=30A3DC&text_color=FFF)](https://github.com/vitorfigueired0/desafio-obuc)
+
 
 
 
