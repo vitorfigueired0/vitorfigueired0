@@ -43,8 +43,12 @@ I'm proficient in various languages and technologies, including Java, JavaScript
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorfigueired0&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=f0f8ff&text_color=FFF)
 
 ## Projects
+[![Passtool](https://github-readme-stats.vercel.app/api/pin/?username=vitorfigueired0&repo=passtool&theme=transparent&bg_color=000&border_color=30A3DC&text_color=FFF)](https://github.com/vitorfigueired0/passtool)
+[![Daily Tasks](https://github-readme-stats.vercel.app/api/pin/?username=vitorfigueired0&repo=daily-tasks&theme=transparent&bg_color=000&border_color=30A3DC&text_color=FFF)](https://github.com/vitorfigueired0/daily-tasks)
 [![Cowsay Daily Message](https://github-readme-stats.vercel.app/api/pin/?username=vitorfigueired0&repo=cowsay-message&theme=transparent&bg_color=000&border_color=30A3DC&text_color=FFF)](https://github.com/vitorfigueired0/cowsay-message)
-[![Cowsay Daily Message](https://github-readme-stats.vercel.app/api/pin/?username=vitorfigueired0&repo=desafio-obuc&theme=transparent&bg_color=000&border_color=30A3DC&text_color=FFF)](https://github.com/vitorfigueired0/desafio-obuc)
+
+
+
 
 
 
